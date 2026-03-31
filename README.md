@@ -23,7 +23,7 @@ This professional analytics project provides an in-depth exploration of New York
 Experience the dynamic filtering and drill-down capabilities of the dashboard:
 </p>
 
-https://github.com/user-attachments/assets/4e0909bd-a97c-4a22-a7a3-bfffff340193
+https://github.com/user-attachments/assets/dfb80e73-834b-48b0-a05c-eb625e715387
 
 ---
 
