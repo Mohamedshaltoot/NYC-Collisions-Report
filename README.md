@@ -60,7 +60,7 @@ The analysis focuses on five core pillars of traffic safety metrics:
 ---
 <div align="center">
 
-**Developed by:** **Eng. Mohamed Edris** *Data Analytics & Warehouse Operations Specialist*
+**Developed by:** **Eng. Mohamed Edris** *Data Analytics *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
